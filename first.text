@@ -5,3 +5,4 @@ Gitの練習
 ・git rm
 ・git status
 ・git diff
+・git push origin master
